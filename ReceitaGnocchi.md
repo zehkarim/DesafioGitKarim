@@ -30,7 +30,7 @@
 <table>
 <thead>
 <tr>
-<th>Nhoque</th>
+<th style="text-align:left">Nhoque</th>
 </tr>
 </thead>
 <tbody>
@@ -48,7 +48,7 @@
 <table>
 <thead>
 <tr>
-<th>Molho</th>
+<th style="text-align:left">Molho</th>
 </tr>
 </thead>
 <tbody>
@@ -63,7 +63,7 @@
 <table>
 <thead>
 <tr>
-<th>Fonduta De Stracchino</th>
+<th style="text-align:left">Fonduta De Stracchino</th>
 </tr>
 </thead>
 <tbody>
@@ -75,7 +75,7 @@
 <table>
 <thead>
 <tr>
-<th>Finalização Do Prato</th>
+<th style="text-align:left">Finalização Do Prato</th>
 </tr>
 </thead>
 <tbody>
