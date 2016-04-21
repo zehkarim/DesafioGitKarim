@@ -24,3 +24,28 @@ Fonduta De Stracchino
 -50 ml de leite
 -1 colher de manteiga
 -Sal a gosto
+
+Modo de preparo
+
+Nhoque
+
+Cozinhe as batatas na água fria,assim que estive bem cozida,retire e descasque,em seguida,corte em pedaços grandes e moa,deixe esfriar.
+Depois, misture com todos os outros ingredientes. Misture, solve a massa, pegue um pedaço da massa e faça uma cobrinha até o ponto desejado e corte em pedaços.
+Se quiser, passe em volta do garfo. Cozinhe.
+
+ 
+
+Molho
+Retire a pele e as sementes do tomate,cozinhe com os outros ingredientes.
+Em seguida,bata no liquidificador.
+
+ 
+
+Fonduta De Stracchino
+Misture tudo na panela.
+
+ 
+
+Finalização Do Prato
+
+Misture o molho com o nhoque,coloque no prato,fazendo um buraco no meio.Coloque a fonduta no buraco.Decore com folhas de manjericão e sirva.
